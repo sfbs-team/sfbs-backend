@@ -1,3 +1,5 @@
+# Sprint 1 - Salma Essamiri: Full unit test suite
+
 """
 Sprint 1 | tests/test_models.py
 Unit tests for all domain model classes.
