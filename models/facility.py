@@ -1,3 +1,5 @@
+# Sprint 1 - Mohab Tawfik: Facility and Booking models
+
 """
 Sprint 1 | models/facility.py
 Facility hierarchy: BaseEntity → Facility → IndoorFacility / OutdoorFacility
