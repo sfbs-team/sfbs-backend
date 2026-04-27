@@ -1,3 +1,5 @@
+# Sprint 2 - Muhammad Adesoga: SQLAlchemy ORM models and database configuration
+
 """
 Sprint 2 | database/config.py + orm_models.py
 Database configuration and SQLAlchemy ORM table definitions.
