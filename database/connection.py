@@ -1,4 +1,4 @@
-# Sprint 2 - Muhammad Adesoga: Singleton DB connection and repository layer
+# Sprint 2 - Mohab Tawfik: Singleton DB connection and repository layer
 
 """
 Sprint 2 | database/connection.py  +  repositories/
