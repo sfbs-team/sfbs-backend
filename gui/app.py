@@ -1,3 +1,5 @@
+# Sprint 2 - Salma Essamiri: Tkinter GUI — login, facility browser, booking form
+
 """
 Sprint 3 | gui/app.py
 Tkinter desktop GUI — SE2 Grade 4: user GUI + database connection.
